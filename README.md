@@ -104,4 +104,4 @@ Static Website: http://**.***.***.***/
 Jenkins Dashboard: http://**.***.***.***:8080/
 
 ✅ Conclusion
-This project proves full CI/CD capability using Jenkins to automate web deployment. Ideal for DevOps fresher/interview showcase.
+This project proves full CI/CD capability using Jenkins to automate web deployment. 
